@@ -1,0 +1,13 @@
+name: als-env
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python                    =3.11
+  - pandas                    =2.2.2
+  - numpy                     =1.26.4
+  - openpyxl                  =3.1.5
+  - plotly                    =6.1.2
+  - python-kaleido            =1.0.0
+  - ipykernel                 =6.29.5
+  - nbformat                  =5.10.4
